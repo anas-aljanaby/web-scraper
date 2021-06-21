@@ -1,0 +1,1 @@
+Scraping nature.com. input number of pages you want to scrape on the first line and type of articles on the second line. It will write each article of the type to disk, each page of articles in a seperate directory.
